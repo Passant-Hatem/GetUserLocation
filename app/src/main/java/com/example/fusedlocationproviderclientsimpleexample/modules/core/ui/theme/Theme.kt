@@ -1,4 +1,4 @@
-package com.example.fusedlocationproviderclientsimpleexample.ui.theme
+package com.example.fusedlocationproviderclientsimpleexample.modules.core.ui.theme
 
 import android.app.Activity
 import android.os.Build
